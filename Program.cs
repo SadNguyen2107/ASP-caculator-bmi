@@ -34,7 +34,7 @@
 
             // Print Out Result
             Console.Write("BMI: " + bmi);
-            if (bmi < 18.0)
+            if (bmi < 18.5)
             {
                 Console.WriteLine(" Underweight");
             }
